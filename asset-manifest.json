@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/formplus-react-app/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/formplus-react-app/static/js/main.0fa4717d.chunk.js",
+    "main.js.map": "/formplus-react-app/static/js/main.0fa4717d.chunk.js.map",
+    "runtime-main.js": "/formplus-react-app/static/js/runtime-main.0d748f5f.js",
+    "runtime-main.js.map": "/formplus-react-app/static/js/runtime-main.0d748f5f.js.map",
+    "static/js/2.d87e3228.chunk.js": "/formplus-react-app/static/js/2.d87e3228.chunk.js",
+    "static/js/2.d87e3228.chunk.js.map": "/formplus-react-app/static/js/2.d87e3228.chunk.js.map",
+    "static/js/3.6ddcea20.chunk.js": "/formplus-react-app/static/js/3.6ddcea20.chunk.js",
+    "static/js/3.6ddcea20.chunk.js.map": "/formplus-react-app/static/js/3.6ddcea20.chunk.js.map",
+    "index.html": "/formplus-react-app/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/formplus-react-app/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.d87e3228.chunk.js.LICENSE.txt": "/formplus-react-app/static/js/2.d87e3228.chunk.js.LICENSE.txt",
+    "static/media/alertIcon.ac330963.svg": "/formplus-react-app/static/media/alertIcon.ac330963.svg",
+    "static/media/rightArrow.012fe660.svg": "/formplus-react-app/static/media/rightArrow.012fe660.svg",
+    "static/media/searchIcon.65518cba.svg": "/formplus-react-app/static/media/searchIcon.65518cba.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d748f5f.js",
+    "static/js/2.d87e3228.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.0fa4717d.chunk.js"
+  ]
+}
